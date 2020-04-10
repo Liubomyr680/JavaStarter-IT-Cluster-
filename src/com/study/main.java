@@ -11,5 +11,6 @@ public class main {
         String str = scanner.nextLine();
 
         JavaBuilder.javaSearch(str);
+
     }
 }
